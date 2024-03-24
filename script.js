@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let input = document.getElementById('#fname')
+let input = document.getElementById("fname")
 
 input.addEventListner("blur", CapitalizeName);
 
